@@ -7,7 +7,7 @@
 
 Una suite de productividad de escritorio para transformar audio en conocimiento estructurado. Diseñada con una arquitectura híbrida que permite al usuario elegir entre la potencia de la nube (**OpenAI**) o la privacidad total de la ejecución local (**Ollama + Whisper Local**).
 
-![AI Transcriber Demo](screenshots/Transcripciones_Minutas_1.JPG)
+![AI Transcriber Demo](screenshots/Transcripciones_Minutas_2.JPG)
 
 ---
 
